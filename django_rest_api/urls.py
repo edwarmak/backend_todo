@@ -1,4 +1,4 @@
-"""django_project_api URL Configuration
+"""django_rest_api URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.0/topics/http/urls/
@@ -15,9 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from django.conf.urls import include
 
 urlpatterns = [
-    path('', include('todo_api.urls')),
     path('admin/', admin.site.urls),
 ]

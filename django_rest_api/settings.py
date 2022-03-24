@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-%l96l=)w3+ne^fq1wdhg@#5%4u@a^=!kapr*8hh0(ylfg0zg+q
 DEBUG = True
 
 # FOR HEROKU DEPLOYMENT
-ALLOWED_HOSTS = ['localhost', 'todo-ornot-todo.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'shrouded-thicket-78021.herokuapp.com']
 
 
 # Application definition
