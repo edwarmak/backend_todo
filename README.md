@@ -23,3 +23,7 @@ https://github.com/edwarmak/backend_todo
 https://www.youtube.com/watch?v=CVpUuw9XSjY&ab_channel=DevEd
 https://www.youtube.com/watch?v=bml92jhF4t8&ab_channel=PedroTech
 https://redux-toolkit.js.org/usage/usage-guide
+https://github.com/zalmoxisus/redux-devtools-extension#usage
+#### Debugging
+https://reactjs.org/docs/error-boundaries.html
+https://www.digitalocean.com/community/tutorials/react-error-boundaries
